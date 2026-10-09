@@ -9,3 +9,5 @@ __pycache__/
 
 *.csv
 *.ipynb
+
+dummpy.py
